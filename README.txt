@@ -31,3 +31,7 @@ Insert multiple rules at the same time
 Remove rules
 Use attributes 
 
+Get some tutorials from here:
+
+http://unix.stackexchange.com/questions/232982/listing-and-editing-the-content-of-sepolicy
+http://unix.stackexchange.com/questions/233670/selinux-and-chroot-system-call
